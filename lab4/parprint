@@ -1,0 +1,19 @@
+nsymbol   = 100000
+nvertex   = 100000
+max-succ  = 4
+nactive   = 1000
+pid 15869
+generating cfg...
+generating usedefs...
+liveness...
+
+I'm alive!
+I'm alive!
+I'm alive!
+I'm alive!
+arghageg
+arghageg
+arghageg
+arghageg
+T =   4.3938 s
+
