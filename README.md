@@ -1,11 +1,11 @@
 # EDAN26-Multicore
 
-## Parallelizing the Java version of the Dataflow Analysis code.
+## A1. Parallelizing the Java version of the Dataflow Analysis code.
 
-## Dataflow Analysis in Scala with Actors.
+## A2. Dataflow Analysis in Scala with Actors.
 
-## Introduction to C and Pthreads.
+## A3. Introduction to C and Pthreads.
 
-## Dataflow Analysis with C and Pthreads.
+## A4. Dataflow Analysis with C and Pthreads.
 
-## C++ Atomics.
+## A5. C++ Atomics.
